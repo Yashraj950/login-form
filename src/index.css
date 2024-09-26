@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    background-image: url("https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+                 
+}
