@@ -56,7 +56,7 @@ const Form = () => {
 
       <div className="text-white mb-7 m-3 p-2 rounded-lg bg-fuchsia-600  hover:bg-fuchsia-400 cursor-pointer">
         {" "}
-        <a href="https://jamsrworld.com/"  className=" flex items-center justify-center" target="_blank">
+        <a href="https://jamsrworld.com/"  className=" flex items-center justify-center" >
           Login
         </a>
       </div>
